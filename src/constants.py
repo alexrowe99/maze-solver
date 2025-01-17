@@ -1,0 +1,3 @@
+LINE_WIDTH=2
+MAZE_COLOUR="black"
+LINE_COLOUR="red"
